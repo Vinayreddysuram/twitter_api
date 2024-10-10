@@ -1,5 +1,3 @@
-# post_tweet.py
-
 import tweepy
 from config import consumer_key, consumer_secret, access_token, access_token_secret, bearer_token
 
