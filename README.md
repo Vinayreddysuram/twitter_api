@@ -50,10 +50,29 @@ To use the Twitter API, you'll need to create a Twitter Developer account and ob
    - Here you will find your **API Key**, **API Key Secret**, **Access Token**, and **Access Token Secret**.
    - You can regenerate tokens if needed, but ensure to keep them secure.
 
-6. **Set Up Environment Variables**:
-   - Follow the instructions in the **Installation** section to store your API credentials in a `.env` file or as environment variables.
 
-## Important Notes
+## Project Details and Executions:
 
-- Ensure that you comply with Twitter's Developer Agreement and Policy to avoid account suspension.
-- Keep your API credentials secure and never share them publicly.
+1. **Posting the Tweet**:
+<img width="626" alt="image" src="https://github.com/user-attachments/assets/b966cf5e-4e8c-4248-ab8b-0b7b07b824ed">
+
+Verify the post
+<img width="752" alt="image" src="https://github.com/user-attachments/assets/ed6bc848-6e2e-4f16-a747-84bd4bb039bc">
+
+
+2. **Delete the Tweet**:
+
+<img width="407" alt="image" src="https://github.com/user-attachments/assets/3301b7b9-6eb1-46ed-aa8b-2ad3bde70c79">
+
+verify the post is deleted:
+
+<img width="636" alt="image" src="https://github.com/user-attachments/assets/2eee4b8a-5045-429f-9282-f8ab0aa9a045">
+
+
+3. **Error handling**:
+
+<img width="699" alt="image" src="https://github.com/user-attachments/assets/8ae21aa1-88b4-4149-8f7c-468e2f553dd2">
+
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/b9f33eaa-b7e2-4b94-bf0b-6fb08b94752a">
+
+
